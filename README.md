@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=FFFFFF&lines=Hi+I'm+Ivan+Abadzhiev!)](https://git.io/typing-svg)
 
+## **😊 About me**
+
+- 🔭 I'm currently working on my engineer's degree. [SoftUni](https://softuni.bg/)
+- 🌱 I'm learning [C# Web Developer](https://softuni.bg/curriculum).
+- 👯 I'm looking to start a brand-new project/idea.
+- 🤔 I'm looking for help finding a job while I finish my university degree.
+- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 
 
 # 📈 GitHub Stats
