@@ -16,7 +16,7 @@
 # 📫 How to reach me
 
 Email: abadzhiev2@gmail.com       
-[LinkedIn](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%B0%D0%B1%D0%B0%D0%B6%D0%B8%D0%B5%D0%B2-11bba9260/)
+[LinkedIn](https://www.linkedin.com/in/ivan-abadzhiev-11bba9260/)
 # Technologies and tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
