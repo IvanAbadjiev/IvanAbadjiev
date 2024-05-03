@@ -10,7 +10,7 @@
 
 # 📫 How to reach me
 
-Email: abadzhiev2@gmail.com       
+abadzhiev2@gmail.com       
 [LinkedIn](https://www.linkedin.com/in/ivan-abadzhiev-11bba9260/)
 
 # 📈 GitHub Stats
