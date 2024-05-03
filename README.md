@@ -29,7 +29,7 @@ Email: abadzhiev2@gmail.com
 </div>
 
 
-# Technologies and tools
+<h1 align='center'># Technologies and tools</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
