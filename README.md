@@ -15,16 +15,16 @@ abadzhiev2@gmail.com
 
 # 📈 GitHub Stats
 <div align="center" sty>
-    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=IvanAbadjiev&show_icons=true&count_private=true&hide_border=true&theme=gotham&bg_color=00000000" align="left" />
-    <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=IvanAbadjiev&theme=gotham&hide_border=true&bg_color=00000000">
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=IvanAbadzhiev01&show_icons=true&count_private=true&hide_border=true&theme=gotham&bg_color=00000000" align="left" />
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=IvanAbadzhiev01&theme=gotham&hide_border=true&bg_color=00000000">
 
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanAbadjiev&theme=gotham&hide_border=true&background=FFFFFF00">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=IvanAbadzhiev01&theme=gotham&hide_border=true&background=FFFFFF00">
 
 </div>
 <div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanAbadjiev&theme=gotham&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanAbadzhiev01&theme=gotham&hide_border=true&bg_color=00000000"/>
 
 </div>
 
