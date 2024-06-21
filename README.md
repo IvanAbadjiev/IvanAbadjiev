@@ -36,8 +36,9 @@ abadzhiev2@gmail.com
     <img src="https://skillicons.dev/icons?i=cs,js,html,css" />
   </a>
 </p>
-
-
+<p align="center">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> 
+    </p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
